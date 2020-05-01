@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yello/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/yello/static/js/main.fe39a62b.chunk.js",
+    "main.js.map": "/yello/static/js/main.fe39a62b.chunk.js.map",
+    "runtime-main.js": "/yello/static/js/runtime-main.a8bd49cd.js",
+    "runtime-main.js.map": "/yello/static/js/runtime-main.a8bd49cd.js.map",
+    "static/js/2.aa8e14be.chunk.js": "/yello/static/js/2.aa8e14be.chunk.js",
+    "static/js/2.aa8e14be.chunk.js.map": "/yello/static/js/2.aa8e14be.chunk.js.map",
+    "index.html": "/yello/index.html",
+    "precache-manifest.91642abaa87965f78103a872597939be.js": "/yello/precache-manifest.91642abaa87965f78103a872597939be.js",
+    "service-worker.js": "/yello/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/yello/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.aa8e14be.chunk.js.LICENSE.txt": "/yello/static/js/2.aa8e14be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8bd49cd.js",
+    "static/js/2.aa8e14be.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.fe39a62b.chunk.js"
+  ]
+}
